@@ -1,0 +1,45 @@
+[
+    {
+      "name": "Wireless Headphones",
+      "image": "https://i.ibb.co.com/10JJqyc/hd-removebg-preview.png",
+      "price": 49.99
+     
+    },
+    {
+      "name": "Smart Watch",
+      "image": "https://i.ibb.co.com/gmymzNb/22-removebg-preview.png",
+      "price": 99.99
+     
+    },
+    {
+      "name": "Laptop Stand",
+      "image": "https://i.ibb.co.com/G0xKjCg/33-removebg-preview.png",
+      "price": 29.99
+     
+    },
+    {
+      "name": "Gaming Mouse",
+      "image": "https://i.ibb.co.com/r42fPtS/ms-removebg-preview.png",
+      "price": 19.99
+     
+    },
+    {
+      "name": "Bluetooth Speaker",
+      "image": "https://i.ibb.co.com/qm9PkHT/sp-removebg-preview.png",
+      "price": 39.99
+     
+    },
+    {
+      "name": "Fitness Tracker",
+      "image": "https://i.ibb.co.com/w0zJbsT/ft-removebg-preview.png",
+      "price": 59.99
+     
+    },
+    {
+      "name": "Portable Charger",
+      "image": "https://i.ibb.co.com/SPHM0mV/chr-removebg-preview.png",
+      "price": 24.99
+     
+    }
+  ]
+  
